@@ -4,10 +4,10 @@
 
 *Water addict.*
 
-I am passionate about all things technology and systems. I consider myself a multidisciplinary creator with a drive to learn, build, and experiment. Here is what I focus on:
+I am into all things about technology and systems. I consider myself a creator with a drive to learn, build, and experiment. Here is what I focus on:
 
-* **Content Creation:** I have end-to-end experience creating various types of content. This includes planning strategies, writing scripts, doing voiceovers, editing, and designing thumbnails.
-* **Programming:** I've been coding since I was 9 years old. While I spend a lot of time experimenting, my published work includes my portfolio website and a fully functional indie game—a project that tested my combined knowledge of programming, animation, music production, and story-writing. You can find more details on [my website](https://rabug.is-a.dev/projects)!
+* **Content Creation:** I have experience creating various types of content. This includes planning strategies, writing scripts, doing voiceovers, editing, and designing thumbnails.
+* **Programming:** I've been coding since I was 9 years old. While I spend a lot of time experimenting, my published work includes my portfolio website and a fully functional indie game a project that tested my combined knowledge of programming, animation, music production, and story-writing. You can find more details on [my website](https://rabug.is-a.dev/projects)!
 * **Audio & Music:** Producing music, dubbing, and manipulating audio.
 * **Visual Arts:** VFX, 3D modeling, and animation.
 
