@@ -1,7 +1,8 @@
 ![](assets/banners/this_is_elly.gif)
-<br> *Water addict.*
-
+<br>
 ## 🙂 About Me
+
+*Water addict.*
 
 I am passionate about all things technology and systems. I consider myself a multidisciplinary creator with a drive to learn, build, and experiment. Here is what I focus on:
 
