@@ -1,4 +1,4 @@
-![](https://github.com/therabug/therabug/blob/main/assets/banners/this_is_elly.gif?raw=true)
+![](https://raw.githubusercontent.com/therabug/therabug/refs/heads/main/assets/banners/this_is_elly.gif)
 <br>
 ## 🙂 About Me
 
